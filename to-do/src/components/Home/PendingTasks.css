@@ -1,0 +1,26 @@
+#parent-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#container-div{
+    margin-top: 30px;
+    font-size: large;
+    font-family: Arial;
+    background-image : linear-gradient(aqua,aquamarine);
+    height: 40px;
+    width: 640px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid;
+    border-radius: 5px;
+}
+
+#task-card-parent{
+    display: flex;
+    gap: 20px;
+    margin-left: 10px;
+    
+}
